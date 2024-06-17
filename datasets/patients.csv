@@ -1,0 +1,4 @@
+patient_id,first_name,last_name,age,gender
+1,John,Doe,30,M
+2,Jane,Smith,25,F
+3,Bob,Johnson,40,M
